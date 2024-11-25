@@ -35,9 +35,6 @@ Beside Laravel, this project uses other tools like:
 - [hotwired-laravel/turbo-laravel](https://github.com/hotwired-laravel/turbo-laravel)
 - Many more to discover.
 
-## Some screenshots
-
-You can find some screenshots of the application on : [https://imgur.com/a/Jbnwj](https://imgur.com/a/Jbnwj)
 
 ## Installation
 
